@@ -1,0 +1,3 @@
+python -u ./train_jittor.py \
+    -d ../dataset -lr 1e-4 --cuda --epochs 50 --lr_epoch 46 \
+    --batch-size 1 --save_path checkpoints_jt --save
