@@ -10,7 +10,7 @@ This repository contains the Jittor implementation of the DCAE (Dictionary-based
 - [Evaluation](#evaluation)
 - [Model Details](#model-details)
 - [Comparison with PyTorch Version](#comparison-with-pytorch-version)
-- [Visualization](#visualization)qwen3-coder-flashqwen3-coder-flashqwen3-coder-flash
+- [Visualization](#visualization)
 - [Acknowledgements](#acknowledgements)
 
 ## 🧠 Overview
